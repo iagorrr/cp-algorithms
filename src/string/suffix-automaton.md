@@ -774,7 +774,14 @@ This can easily be computed by DFS or BFS and dynamic programming.
 After that, the answer to the problem will be the string $longest(v)$ for the state $v$, from which the paths were exists for all special characters.
 
 ## Practice Problems
-
+  - [CSES - Finding Patterns](https://cses.fi/problemset/task/2102)
+  - [CSES - String Matching](https://cses.fi/problemset/task/1753)
+  - [CSES - Distinct Substrings](https://cses.fi/problemset/task/2105)
+  - [CSES - Minimal Rotation](https://cses.fi/problemset/task/1110)
+  - [CSES - Counting Patterns](https://cses.fi/problemset/task/2103)
+  - [CSES - Pattern Positions](https://cses.fi/problemset/task/2104)
+  - [CSES - Word Combinations](https://cses.fi/problemset/task/1731)
+  - [CSES - String Distribution](https://cses.fi/problemset/task/2110)
   - [AtCoder - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a)
   - [SPOJ - SUBLEX](https://www.spoj.com/problems/SUBLEX/)
   - [Codeforces - Cyclical Quest](https://codeforces.com/problemset/problem/235/C)
